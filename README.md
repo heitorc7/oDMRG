@@ -1,4 +1,4 @@
-#oDMRG-2.0
+#oDMRG
 
 # Introduction
 

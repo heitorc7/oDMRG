@@ -6,7 +6,7 @@
 
 # Requirements
 
- This code is written in cpp to be used together with the ITensor library (version 2.x). You should have it installed, as well as the needed dependencies for ITensor. For more information go to visit the [ITensor page](https://www.itensor.org/index.html)
+ This code is written in cpp to be used together with the ITensor library (version 2.x). You should have it installed, as well as the needed dependencies for ITensor. For more information go to the [ITensor page](https://www.itensor.org/index.html)
 
 # Files
 

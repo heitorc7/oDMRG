@@ -1,0 +1,1 @@
+OMP_NUM_THREADS=4 ./oDMRG 10 1 1 0 0 1 > SimulationData-File_N-10_gamma-1_f1-1_fN-0_h-0_Delta-1.txt &

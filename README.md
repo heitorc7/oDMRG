@@ -2,7 +2,7 @@
 
 # Introduction
 
- Code repository for the ITensor based Open DMRG algorithm as explained in [Analysis of a density matrix renormalization group approach for transport in open quantum system](https://arxiv.org/abs/2009.08200).
+ Code repository for the ITensor based Open DMRG algorithm as explained in [Analysis of a density matrix renormalization group approach for transport in open quantum system](https://www.sciencedirect.com/science/article/pii/S0010465521001727).
 
 # Requirements
 
